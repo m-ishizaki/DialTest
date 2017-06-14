@@ -1,0 +1,45 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26430.6
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DialTest", "DialTest\DialTest.csproj", "{287F4DC3-9ED0-4C06-ACCF-64130A2DA71F}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{0C1BDB38-1862-4C70-B75F-0BA8ACE93DBE}"
+	ProjectSection(SolutionItems) = preProject
+		LICENSE.txt = LICENSE.txt
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|ARM = Debug|ARM
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|ARM = Release|ARM
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{287F4DC3-9ED0-4C06-ACCF-64130A2DA71F}.Debug|ARM.ActiveCfg = Debug|ARM
+		{287F4DC3-9ED0-4C06-ACCF-64130A2DA71F}.Debug|ARM.Build.0 = Debug|ARM
+		{287F4DC3-9ED0-4C06-ACCF-64130A2DA71F}.Debug|ARM.Deploy.0 = Debug|ARM
+		{287F4DC3-9ED0-4C06-ACCF-64130A2DA71F}.Debug|x64.ActiveCfg = Debug|x64
+		{287F4DC3-9ED0-4C06-ACCF-64130A2DA71F}.Debug|x64.Build.0 = Debug|x64
+		{287F4DC3-9ED0-4C06-ACCF-64130A2DA71F}.Debug|x64.Deploy.0 = Debug|x64
+		{287F4DC3-9ED0-4C06-ACCF-64130A2DA71F}.Debug|x86.ActiveCfg = Debug|x86
+		{287F4DC3-9ED0-4C06-ACCF-64130A2DA71F}.Debug|x86.Build.0 = Debug|x86
+		{287F4DC3-9ED0-4C06-ACCF-64130A2DA71F}.Debug|x86.Deploy.0 = Debug|x86
+		{287F4DC3-9ED0-4C06-ACCF-64130A2DA71F}.Release|ARM.ActiveCfg = Release|ARM
+		{287F4DC3-9ED0-4C06-ACCF-64130A2DA71F}.Release|ARM.Build.0 = Release|ARM
+		{287F4DC3-9ED0-4C06-ACCF-64130A2DA71F}.Release|ARM.Deploy.0 = Release|ARM
+		{287F4DC3-9ED0-4C06-ACCF-64130A2DA71F}.Release|x64.ActiveCfg = Release|x64
+		{287F4DC3-9ED0-4C06-ACCF-64130A2DA71F}.Release|x64.Build.0 = Release|x64
+		{287F4DC3-9ED0-4C06-ACCF-64130A2DA71F}.Release|x64.Deploy.0 = Release|x64
+		{287F4DC3-9ED0-4C06-ACCF-64130A2DA71F}.Release|x86.ActiveCfg = Release|x86
+		{287F4DC3-9ED0-4C06-ACCF-64130A2DA71F}.Release|x86.Build.0 = Release|x86
+		{287F4DC3-9ED0-4C06-ACCF-64130A2DA71F}.Release|x86.Deploy.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
